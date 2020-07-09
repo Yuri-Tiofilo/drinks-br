@@ -28,5 +28,9 @@ The project was developed with these technologies:
   <br />
   <br />
 
-  <img src="assets/images/mage3.png" height="987" width="480">
-
+  <img src="assets/images/image3.png" height="987" width="480">
+  
+   <br />
+   <br />
+   
+  <img src="assets/images/image4.png" height="987" width="480">
