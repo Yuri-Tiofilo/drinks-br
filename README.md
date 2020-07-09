@@ -11,22 +11,22 @@ The project was developed with these technologies:
 -  [ESLint](https://eslint.org/)
 -  [Prettier](https://prettier.io/)
 -  [VS Code](https://code.visualstudio.com/)
--  React-Native](https://reactnative.dev/)
+-  [React-Native](https://reactnative.dev/)
 -  [Styled-components](https://styled-components.com/)
 
 ## Screens
 
 
 
-  <img src="assets/image1.png" height="987" width="480">
+  <img src="assets/images/image1.png" height="987" width="480">
 
   <br />
   <br />
 
-  <img src="assets/image2.png" height="987" width="480">
+  <img src="assets/images/image2.png" height="987" width="480">
 
   <br />
   <br />
 
-  <img src="assets/image3.png" height="987" width="480">
+  <img src="assets/images/mage3.png" height="987" width="480">
 
