@@ -17,7 +17,7 @@ The project was developed with these technologies:
 ## Screens
 
 
-<div style="flex-direction: row">
+
   <img src="assets/image1.png" height="987" width="480">
 
   <br />
@@ -29,4 +29,4 @@ The project was developed with these technologies:
   <br />
 
   <img src="assets/image3.png" height="987" width="480">
-</div>
+
